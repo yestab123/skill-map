@@ -66,6 +66,7 @@
 	* OSI Model
 	* TCP/IP
 	* HTTP / HTTPS
+	* HTTP 1.X / HTTP 2
 
 ### Essentials
 - Linux/Unix
@@ -81,6 +82,14 @@
 		+ log4j
 		+ slf4j
 		+ logback
+	* Unit Test
+		+ Junit
+		+ Mockito
+		+ TestNG
+	* Code Coverage
+		+ jacoco
+		+ Clover
+		+ EMMA
 	* Apache Commons
 		+ commons-io
 		+ commons-lang
@@ -114,11 +123,14 @@
 	* Data Representation
 		+ XML
 		+ JSON
+		+ JSONP
 	* Javascript
+	        + ECMAScript 6
 		+ Basics (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 		+ Ajax
 		+ AngularJS (plus)
 		+ JQuery (plus)
+	* TypeScript
 	* Responsive Web Page development (plus)
 
 ###	Back-end Development(Server side)
@@ -130,7 +142,7 @@
 	* JPA *
 	* JTA *
 	* JAX-RS *
-	* Managed Beans / CDI 1.1/ DI
+	* Managed Beans / CDI 1.1/ DI /IOC
 	* Bean Validation
 	* JAX-WS
 	* JavaMail
@@ -143,6 +155,7 @@
 - Java Containers
 	* Tomcat / TomEE
 	* GlassFish
+	* Jetty
 - Java mid-ware
 	* Spring
 		+ Spring-Framework (Dependency Injection & AOP)
@@ -151,11 +164,14 @@
 		+ Spring-security
 		+ Spring-boot (Micro-service Architecture)
 	* Struts(MVC)
+	* SpringMVC
 	* Hibernate/JPA (Data Persistency)
+	* MyBatis
 - Java Performance Tuning
 	* java performance the definitive guide.pdf
 - Database
 	* MySQL
+	* SqlServer
 	* Oracle
 	* Nosql
 		+ Memcache
@@ -170,6 +186,7 @@
 	* Motan
 - MessageQueue
 	* AMQP - RabbitMQ
+	* Apache ActiveMQ
 	* Apache Kafka
 - Messaging
 	* XMPP
